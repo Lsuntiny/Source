@@ -47,6 +47,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13 HD
 http://117.148.179.139/PLTV/88888888/224/3221231636/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13 高清
+http://39.135.32.28:6610/PLTV/77777777/224/3221225759/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13 HD
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13 HD
