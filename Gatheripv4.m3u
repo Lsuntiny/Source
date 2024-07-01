@@ -1,0 +1,105 @@
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://epg.112114.xyz/pp.xml.gz"
+#EXTINF:-1 tvg-name="CCTV 1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
+https://yang-1989.eu.org/migu/cctv1
+#EXTINF:-1 tvg-name="CCTV 2" tvg-logo="https://yang-1989.eu.org/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
+https://yang-1989.eu.org/migu/cctv2
+#EXTINF:-1 tvg-name="CCTV 3" tvg-logo="https://yang-1989.eu.org/logo/CCTV3.png" group-title="•咪咕「TV」",CCTV 3 综艺
+https://yang-1989.eu.org/migu/cctv3
+#EXTINF:-1 tvg-name="CCTV 4" tvg-logo="https://yang-1989.eu.org/logo/CCTV4.png" group-title="•咪咕「TV」",CCTV 4 中文国际
+https://yang-1989.eu.org/migu/cctv4
+#EXTINF:-1 tvg-name="CCTV 美洲" tvg-logo="https://yang-1989.eu.org/logo/CCTV4美洲.png" group-title="•咪咕「TV」",CCTV 4 中文国际·美洲
+https://yang-1989.eu.org/migu/cctv4m
+#EXTINF:-1 tvg-name="CCTV 欧洲" tvg-logo="https://yang-1989.eu.org/logo/CCTV4欧洲.png" group-title="•咪咕「TV」",CCTV 4 中文国际·欧洲
+https://yang-1989.eu.org/migu/cctv4o
+#EXTINF:-1 tvg-name="CCTV 5" tvg-logo="https://yang-1989.eu.org/logo/CCTV5.png" group-title="•咪咕「TV」",CCTV 5 体育
+https://yang-1989.eu.org/migu/cctv5
+#EXTINF:-1 tvg-name="CCTV 5+" tvg-logo="https://yang-1989.eu.org/logo/CCTV5+.png" group-title="•咪咕「TV」",CCTV 5+ 体育赛事
+https://yang-1989.eu.org/migu/cctv5p
+#EXTINF:-1 tvg-name="CCTV 6" tvg-logo="https://yang-1989.eu.org/logo/CCTV6.png" group-title="•咪咕「TV」",CCTV 6 电影
+https://yang-1989.eu.org/migu/cctv6
+#EXTINF:-1 tvg-name="CCTV 7" tvg-logo="https://yang-1989.eu.org/logo/CCTV7.png" group-title="•咪咕「TV」",CCTV 7 国防军事
+https://yang-1989.eu.org/migu/cctv7
+#EXTINF:-1 tvg-name="CCTV 8" tvg-logo="https://yang-1989.eu.org/logo/CCTV8.png" group-title="•咪咕「TV」",CCTV 8 电视剧
+https://yang-1989.eu.org/migu/cctv8
+#EXTINF:-1 tvg-name="CCTV 9" tvg-logo="https://yang-1989.eu.org/logo/CCTV9.png" group-title="•咪咕「TV」",CCTV 9 纪录
+https://yang-1989.eu.org/migu/cctv9
+#EXTINF:-1 tvg-name="CCTV 10" tvg-logo="https://yang-1989.eu.org/logo/CCTV10.png" group-title="•咪咕「TV」",CCTV 10 科教
+https://yang-1989.eu.org/migu/cctv10
+#EXTINF:-1 tvg-name="CCTV 11" tvg-logo="https://yang-1989.eu.org/logo/CCTV11.png" group-title="•咪咕「TV」",CCTV 11 戏曲
+https://yang-1989.eu.org/migu/cctv11
+#EXTINF:-1 tvg-name="CCTV 12" tvg-logo="https://yang-1989.eu.org/logo/CCTV12.png" group-title="•咪咕「TV」",CCTV 12 社会与法
+https://yang-1989.eu.org/migu/cctv12
+#EXTINF:-1 tvg-name="CCTV 13" tvg-logo="https://yang-1989.eu.org/logo/CCTV13.png" group-title="•咪咕「TV」",CCTV 13 新闻
+https://yang-1989.eu.org/migu/cctv13
+#EXTINF:-1 tvg-name="CCTV 14" tvg-logo="https://yang-1989.eu.org/logo/CCTV14.png" group-title="•咪咕「TV」",CCTV 14 少儿
+https://yang-1989.eu.org/migu/cctv14
+#EXTINF:-1 tvg-name="CCTV 15" tvg-logo="https://yang-1989.eu.org/logo/CCTV15.png" group-title="•咪咕「TV」",CCTV 15 音乐
+https://yang-1989.eu.org/migu/cctv15
+#EXTINF:-1 tvg-name="CCTV 17" tvg-logo="https://yang-1989.eu.org/logo/CCTV17.png" group-title="•咪咕「TV」",CCTV 17 农村农业
+https://yang-1989.eu.org/migu/cctv17
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://yang-1989.eu.org/logo/湖南卫视.png" group-title="•咪咕「TV」",湖南卫视
+https://yang-1989.eu.org/migu/hunws
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://yang-1989.eu.org/logo/江苏卫视.png" group-title="•咪咕「TV」",江苏卫视
+https://yang-1989.eu.org/migu/jsws
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://yang-1989.eu.org/logo/东方卫视.png" group-title="•咪咕「TV」",东方卫视
+https://yang-1989.eu.org/migu/dfws
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://yang-1989.eu.org/logo/陕西卫视.png" group-title="•咪咕「TV」",陕西卫视
+https://yang-1989.eu.org/migu/sxws
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://yang-1989.eu.org/logo/江西卫视.png" group-title="•咪咕「TV」",江西卫视
+https://yang-1989.eu.org/migu/jxws
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://yang-1989.eu.org/logo/海峡卫视.png" group-title="•咪咕「TV」",海峡卫视
+https://yang-1989.eu.org/migu/hxws
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://yang-1989.eu.org/logo/辽宁卫视.png" group-title="•咪咕「TV」",辽宁卫视
+https://yang-1989.eu.org/migu/lnws
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://yang-1989.eu.org/logo/山东卫视.png" group-title="•咪咕「TV」",山东卫视
+https://yang-1989.eu.org/migu/sdws
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://yang-1989.eu.org/logo/湖北卫视.png" group-title="•咪咕「TV」",湖北卫视
+https://yang-1989.eu.org/migu/hubws
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://yang-1989.eu.org/logo/东南卫视.png" group-title="•咪咕「TV」",东南卫视
+https://yang-1989.eu.org/migu/dnws
+#EXTINF:-1 tvg-name="上海新闻" tvg-logo="https://yang-1989.eu.org/logo/上海新闻.png" group-title="•咪咕「TV」",上海新闻综合
+https://yang-1989.eu.org/migu/shxw
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://yang-1989.eu.org/logo/东方影视.png" group-title="•咪咕「TV」",东方影视
+https://yang-1989.eu.org/migu/shys
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://yang-1989.eu.org/logo/劲爆体育.png" group-title="•咪咕「TV」",劲爆体育
+https://yang-1989.eu.org/migu/jbty
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://yang-1989.eu.org/logo/魅力足球.png" group-title="•咪咕「TV」",魅力足球
+https://yang-1989.eu.org/migu/mlzq
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://yang-1989.eu.org/logo/纪实人文.png" group-title="•咪咕「TV」",纪实人文
+https://yang-1989.eu.org/migu/shjs
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://yang-1989.eu.org/logo/欢笑剧场.png" group-title="•咪咕「TV」",欢笑剧场
+https://yang-1989.eu.org/migu/hxjc
+#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://yang-1989.eu.org/logo/七彩戏剧.png" group-title="•咪咕「TV」",七彩戏剧
+https://yang-1989.eu.org/migu/qcxj
+#EXTINF:-1 tvg-name="CHC 家庭影院" tvg-logo="https://yang-1989.eu.org/logo/家庭影院.png" group-title="•咪咕「TV」",CHC家庭影院
+https://yang-1989.eu.org/migu/jtyy
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://yang-1989.eu.org/logo/游戏风云.png" group-title="•咪咕「TV」",游戏风云
+https://yang-1989.eu.org/migu/yxfy
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://yang-1989.eu.org/logo/四海钓鱼.png" group-title="•咪咕「TV」",四海钓鱼
+https://yang-1989.eu.org/migu/shdy
+#EXTINF:-1 tvg-name="红色轮播台" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「TV」",红色轮播台
+https://yang-1989.eu.org/migu/hslb
+#EXTINF:-1 tvg-name="经典香港电影" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「TV」",经典香港电影
+https://yang-1989.eu.org/migu/xgdy
+#EXTINF:-1 tvg-name="新片放映厅" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「TV」",新片放映厅
+https://yang-1989.eu.org/migu/xpdy
+#EXTINF:-1 tvg-name="乡村振兴频道" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「TV」",乡村振兴频道
+https://yang-1989.eu.org/migu/xczx
+#EXTINF:-1 tvg-name="掼蛋精英赛" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「TV」",掼蛋精英赛
+https://yang-1989.eu.org/migu/dds
+#EXTINF:-1 tvg-name="NBA经典" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「TV」",NBA经典
+https://yang-1989.eu.org/migu/nba
+#EXTINF:-1 tvg-name="CBA经典" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「TV」",CBA经典
+https://yang-1989.eu.org/migu/cba
+#EXTINF:-1 tvg-name="五大联赛经典" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「TV」",五大联赛经典
+https://yang-1989.eu.org/migu/lsjd
+#EXTINF:-1 tvg-name="玫瑰轮播台" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「TV」",玫瑰轮播台
+https://yang-1989.eu.org/migu/mg
+#EXTINF:-1 tvg-name="UFC格斗精选" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「TV」",UFC格斗精选
+https://yang-1989.eu.org/migu/ufc
+#EXTINF:-1 tvg-name="全民乒乓" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「TV」",全民乒乓
+https://yang-1989.eu.org/migu/qmpp
+#EXTINF:-1 tvg-name="英雄联盟赛事" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「TV」",英雄联盟赛事
+https://yang-1989.eu.org/migu/lol
+#EXTINF:-1 tvg-name="咪咕24小时体育台" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「TV」",咪咕24小时体育台
+https://yang-1989.eu.org/migu/mgty
